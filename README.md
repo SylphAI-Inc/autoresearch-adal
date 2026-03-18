@@ -109,6 +109,8 @@ Then give both agents the same prompt:
 "Hi, have a look at program.md and let's kick off a new experiment! Let's do the setup first."
 ```
 
+![adal-yolo](adal-yolo.gif)
+
 ---
 
 ## 🌸 What is AdaL?
